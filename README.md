@@ -4,11 +4,11 @@
 Student Details
 ---------------
 
-Name: Kondepudy Karthikeya
-BU Enrollment no.: E23MCAG0065
-Batch no.: 02
-Course: Intelligent Model Design Using AI
-Course Code: CMCA550
+- Name: Kondepudy Karthikeya
+- BU Enrollment no.: E23MCAG0065
+- Batch no.: 02
+- Course: Intelligent Model Design Using AI
+- Course Code: CMCA550
 
 
 
