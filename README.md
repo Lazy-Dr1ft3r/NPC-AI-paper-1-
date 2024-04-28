@@ -46,9 +46,9 @@ SCRIPTS:
 
 DOCUMENTS
 ---------
-Project report (PDF)
-Milestone 1 (.docx)
-Milestone 2 (.docx)
+1) Project report (PDF)
+2) Milestone 1 (.docx)
+3) Milestone 2 (.docx)
 
 
 
